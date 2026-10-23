@@ -63,7 +63,7 @@ const App = () => {
       </nav>
       <div className="middle">
         <div className="left">
-          <h1>Leo  <br /> New  <br />Creation <br />DAMMMM</h1>
+          <h1>Leo  <br /> New  <br />Creation</h1>
         </div>
         <div className="right"></div>
       </div>
