@@ -58,7 +58,7 @@ const App = () => {
       </div>
       
       <div className="nav-element">
-        Our Show Reel
+          <a href="https://www.instagram.com/reel/DTt8wvhDwC5/?psln=MTRydWNkaWhreWs0dA==">Our Show Reel</a>
       </div>
       </nav>
       <div className="middle">
