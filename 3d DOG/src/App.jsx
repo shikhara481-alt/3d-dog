@@ -115,7 +115,7 @@ const App = () => {
           onBlur={() => setCoatColor('#ffffff')}
           tabIndex={0}>
           <small>2022 - OnGoing</small>
-          <h1>The Love Life</h1>
+          <h1>The Mistake </h1>
         </div>
         <div img-title="HeartBreak" className="title"
           onMouseEnter={() => setCoatColor(projectColors[4])}
@@ -142,7 +142,16 @@ const App = () => {
           onBlur={() => setCoatColor('#ffffff')}
           tabIndex={0}>
           <small>2025 - OnGoing</small>
-          <h1>The PlayBoy</h1>
+          <h1>The GoodBoy</h1>
+        </div>
+         <div img-title="love" className="title"
+          onMouseEnter={() => setCoatColor(projectColors[6])}
+          onMouseLeave={() => setCoatColor('#ffffff')}
+          onFocus={() => setCoatColor(projectColors[6])}
+          onBlur={() => setCoatColor('#ffffff')}
+          tabIndex={0}>
+          <small>2026 - OnGoing</small>
+          <h1>The Her Boy</h1>
         </div>
       </div>
     </section>
@@ -160,7 +169,7 @@ const App = () => {
           <div className="footer-star">✳</div>
         </div>
         <div className="footer-bottom">
-          <span>© 2025 Shikhar Singh Rajput</span>
+          <span>© 2026 Shikhar Singh Rajput</span>
           <span>Made with imagination</span>
           <div className="footer-links">
             <a href="#section-1">Back to top ↑</a>
